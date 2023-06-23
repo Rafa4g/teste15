@@ -1,7 +1,7 @@
 # 𓊈𒆜 INSTALADOR 𒆜𓊉
 ```
 
-sudo apt update && sudo apt upgrade && sudo apt autoremove && sudo apt autoclean && apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/ruck18/hibrido/main/ssh-plus)
+bash <(wget -qO- raw.githubusercontent.com/Rafa4g/teste15/main/ssh-plus)
 ```
 
 #  𓊈𒆜 PAINEL SSH 𒆜𓊉
